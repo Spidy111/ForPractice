@@ -1,1 +1,3 @@
 hello i am doinf cloning
+
+file was changed by another devloper
